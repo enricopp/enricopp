@@ -1,6 +1,6 @@
 - 👋 System.out.printl("Olá Sou o Enrico");
 - 👀 System.out.printl("Full-Stack Developer");
-- 🌱 System.out.printl("Atualmente estudo Flutter, Java, JS, MySQL, API");
+- 🌱 System.out.printl("Atualmente estudo Flutter, Java,HTML, CSS JS, MySQL, API, Angular");
 - 📫 System.out.printl("enricopietrop@gmail.com");
 
 Estou aprendendo:
